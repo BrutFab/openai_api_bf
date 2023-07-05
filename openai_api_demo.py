@@ -30,7 +30,7 @@ response = openai.ChatCompletion.create(
 
 print (response['choices'][0]['message']['content'])
 
-#Example 3 - example provided on the openai api documentation page
+#Example 3 - example showing the effect of "temperature"
 response_2 = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
     messages=[
