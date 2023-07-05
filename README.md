@@ -1,10 +1,10 @@
 # OpenAI API Python Guide
 
-This Python script is an example from a YouTube tutorial on [Brutfab](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q)'s channel, focusing on beginners using the OpenAI API.
+This Python script is from a YouTube tutorial on [Brutfab](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q)'s channel, focusing on beginners using the OpenAI API.
 
 ## Steps
 
-1. **Setup**: Initializes OpenAI API using the API key loaded from a `.env` file. 
+1. **Setup**: Initializes OpenAI API using the API key loaded from a `.env` file.
 
 2. **Models**: Uses `openai.Model.list()` to list all available models for the given API key.
 
