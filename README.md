@@ -5,21 +5,12 @@ This Python script is from a YouTube tutorial on [Brutfab](https://www.youtube.c
 There are 2 different methods you can use to access the OpenAI API, The first method is to use the OpenAI python library, in which I provided examples in the pt1 directory
 The second method is to access through a direct HTTP request. You can check out the example in the pt2 directory.
 
-## Pt. 1 Steps
+Pt3 includes examples for building a customized chatbot using openai api. 
 
-1. **Setup**: Initializes the OpenAI API using the API key loaded from a `.env` file.
+## Setup Instruction
 
-2. **Models**: Uses `openai.Model.list()` to list all available models for the given API key.
+**Setup**: Initializes the OpenAI API using the API key loaded from a `.env` file.
 
-3. **API Usage**: Provides examples of how to use the API, including an interactive chat with the GPT-3.5-turbo model and an illustration of the 'temperature' parameter's effect.
-
-## Pt. 2 Steps
-
-1. **Setup**: Initializes the OpenAI API using the API key loaded from a `.env` file.
-
-2. **Post Request**: Make your first post request.
-
-3. **Util Function**: Build a utility function.
 
 ## Usage
 
