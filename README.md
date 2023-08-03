@@ -7,9 +7,9 @@ There are 2 different methods you can use to access the OpenAI API:
 
 **Pt1** The first method is to use the OpenAI python library, in which I provided examples in the pt1 directory
 
-**Pt2**The second method is to access through a direct HTTP request. You can check out the example in the pt2 directory.
+**Pt2** The second method is to access through a direct HTTP request. You can check out the example in the pt2 directory.
 
-**Pt3** includes examples for building a customized chatbot using openai api. 
+**Pt3** Includes examples for building a customized chatbot using openai api. 
 
 ## Setup Instruction
 
